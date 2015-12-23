@@ -1,0 +1,2 @@
+Ejecutamos make en el directorio principal (dentro de cuadernillo)
+Y lo probamos con ./main
