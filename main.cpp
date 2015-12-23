@@ -27,6 +27,9 @@ int main(void)
 	TComplejo definido(4,8.9);
 	cout << "Complejo a partir de real e imaginaria: " << definido << endl;
 	
+	TComplejo definido2(5,8.2);
+	cout << "Complejo a partir de real e imaginaria: " << definido2 << endl;
+	
 	TComplejo asignar;
 	asignar=parteReal;
 	cout << "Complejo a partir de asignación: " << asignar << endl;
