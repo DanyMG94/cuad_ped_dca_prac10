@@ -9,6 +9,9 @@ using namespace std;
 int main(void)
 {
 	cout << "<------------------Pruebas para la TCOMPLEJO------------------------->" << endl;
+	TComplejo vacio2;
+	cout << "Complejo vacío2 (1,0): " << vacio2 << endl;
+	
 	TComplejo vacio;
 	cout << "Complejo vacío (0,0): " << vacio << endl;
 	
