@@ -18,6 +18,9 @@ int main(void)
 	TComplejo parteReal(4);
 	cout << "Complejo a partir de parte real: " << parteReal << endl;
 	
+	TComplejo parteReal2(8);
+	cout << "Complejo a partir de parte real: " << parteReal2 << endl;
+	
 	TComplejo copia(parteReal);
 	cout << "Complejo a partir de constructor copia: " << copia << endl;
 	
